@@ -1,3 +1,3 @@
 # Weather-App-JS
-All styles are in header.scss,
+All styles are in header.scss
 
